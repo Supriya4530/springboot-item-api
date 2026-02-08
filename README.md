@@ -24,3 +24,10 @@ This project uses in-memory storage and is built as part of a sample task for a 
 ### Steps
 ```bash
 mvn spring-boot:run
+The application will start at:
+http://localhost:8080
+
+
+
+
+
